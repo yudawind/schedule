@@ -1,0 +1,17 @@
+{
+  "name": "test_schedule",
+  "version": "0.1.0",
+  "author": "yudawind@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "cssnano": "^3.5.2",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.0.5",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5"
+  },
+  "description": ""
+}
